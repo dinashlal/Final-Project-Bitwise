@@ -1,18 +1,25 @@
-.clearfix {
-    clear: both;
+
+/*-- Font for the entire page */
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+/*--hero section pics*/
+li {
+    display: inline-block;
+    padding: 25px
+}
+/*--nav bar styling */
+.menu-item {
+    display: inline-block;
+    padding: 100px
+    float; left: auto
 }
 
-.column2 {
-    float: left; 
-    width: 50%;
+.a class {
+    font-size: x-large;
 }
 
-.column3 {
-    float: left; 
-    width: 33.3%; 
+div {
+    user-select: contain;
 }
 
-.column4 { 
-    float: left; 
-    width: 25%; 
-}
